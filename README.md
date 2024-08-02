@@ -6,7 +6,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
 class SoftwareDeveloper:
 
     def __init__(self):
@@ -28,7 +27,6 @@ me.say_hi()
 
 -----
 
-<br>
 <br>
 
 
