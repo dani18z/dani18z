@@ -1,6 +1,6 @@
-<div align="center"><img src="https://media.giphy.com/media/xSVQgqlSTMXYs/giphy.gif?cid=790b7611peqiaub0kikpfbrjtiu2viv4xdzssrj33klmezrc&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35"></div>
 
-## <div align="center"><b>About me</b></div>
+
+## <div align="center"><img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="45"><b>About me</b></div>
 
 <br>
 
@@ -23,11 +23,11 @@ me = SoftwareDeveloper()
 me.say_hi()
 ```
 
-## <div align="center"><img src="" width="35"><b>Skills</b></div>
+## <div align="center"><img src="https://media.giphy.com/media/kAm4u0lhDCmXnugz6p/giphy.gif?cid=ecf05e47134nwe48xf9o7e50ve5thxdldlmqlworlng9us25&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width="30"><b> Skills</b></div>
 
 <br>
 
-## <div align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Stats</b></div>
+## <div align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"><b>Stats</b></div>
 
 <br>
 
