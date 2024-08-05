@@ -25,7 +25,7 @@ me.say_hi()
 
 ## <div align="center"><img src="https://media.giphy.com/media/kAm4u0lhDCmXnugz6p/giphy.gif?cid=ecf05e47134nwe48xf9o7e50ve5thxdldlmqlworlng9us25&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width="30"><b> Skills</b></div>
 
-
+<br>
 
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -69,7 +69,18 @@ me.say_hi()
 
 <br>
 
+## <div align="center"><b>Reach me</b></div>
 
+<br>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:daniellopeznield@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"></a>
+</div>
+
+<br>
+
+<div align="center"><img src="https://media.giphy.com/media/fvSnAaFUjIqh6XXIFp/giphy.gif" width="40"></div>
 
 
 
