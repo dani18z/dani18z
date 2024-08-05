@@ -1,5 +1,5 @@
 # Welcome!
-<br>
+
 <br>
 
 ```python
@@ -23,7 +23,7 @@ me.say_hi()
 
 
 <br>
-<br>
+
 
 -----
 
@@ -32,7 +32,7 @@ me.say_hi()
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
-<br>
+
 
 <div align="center">
 
@@ -46,11 +46,11 @@ me.say_hi()
 </div>
 
 <br>
-<br>
+
 
 
 -----
 
 <br>
-<br>
+
 
