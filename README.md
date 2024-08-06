@@ -59,10 +59,10 @@ me.say_hi()
 <div align="center">
 <a href="https://github.com/dani18z/">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dani18z&show_icons=true&locale=en&layout=compact&line_height=20&title_color=ee944d&icon_color=bfaeeb&text_color=D3D3D3&bg_color=2d333b" width="500"  alt="dani18z"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dani18z&show_icons=true&locale=en&layout=compact&line_height=20&title_color=ee944d&icon_color=bfaeeb&text_color=D3D3D3&bg_color=2d333b&hide_border=true" width="500"  alt="dani18z"/>
     <br>
     <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=dani18z&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=ee944d&icon_color=bfaeeb&text_color=D3D3D3&bg_color=2d333b" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dani18z&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=ee944d&icon_color=bfaeeb&text_color=D3D3D3&bg_color=2d333b&hide_border=true" width="500"/>
 
 </a>
 </div>
