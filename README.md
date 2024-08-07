@@ -62,7 +62,8 @@ me.say_hi()
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dani18z&show_icons=true&locale=en&layout=compact&line_height=20&title_color=ee944d&icon_color=bfaeeb&text_color=D3D3D3&bg_color=2d333b&hide_border=true" width="500"  alt="dani18z"/>
     <br>
     <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=dani18z&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=ee944d&icon_color=bfaeeb&text_color=D3D3D3&bg_color=2d333b&hide_border=true" width="500"/>
+<img src="https://github-readme-stats-chi-lovat-26.vercel.app/api?username=dani18z&show_icons=true&rank_icon=github&title_color=ee944d&text_color=D3D3D3&icon_color=bfaeeb&bg_color=2d333b&include_all_commits=true&hide_border=true" alt="GitHub Stats" width="500">
+
 
 </a>
 </div>
